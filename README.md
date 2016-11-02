@@ -1,0 +1,2 @@
+# unraidtemplates
+unraid plugin templates
