@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/Waseh/rclone-unraid/beta/rclone.plg</PluginURL>
+<PluginAuthor>Waseh</PluginAuthor>
+<Beta>True</Beta>
+<Category>Backup: Cloud: Tools:</Category>
+<Date>2016-11-02</Date> 
+<Name>rclone-beta</Name>
+<Description>
+The plugin installs Rclone. Rclone is a command line program to sync files and directories to and from
+* Google Drive
+* Amazon S3
+* Openstack Swift / Rackspace cloud files / Memset Memstore
+* Dropbox
+* Google Cloud Storage
+* Amazon Drive
+* Microsoft One Drive
+* Hubic
+* Backblaze B2
+* Yandex Disk
+* The local filesystem
+
+Go to http://rclone.org/ for more information.
+</Description>
+<Support></Support>
+<Icon>http://i.imgur.com/hHXQqTb.png</Icon>
+</Containers>
