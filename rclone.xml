@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
 <Plugin>True</Plugin>
-<PluginURL>https://raw.githubusercontent.com/Waseh/rclone-unraid/beta/rclone.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/Waseh/rclone-unraid/master/rclone.plg</PluginURL>
 <PluginAuthor>Waseh</PluginAuthor>
 <Beta>True</Beta>
 <Category>Backup: Cloud: Tools:</Category>
