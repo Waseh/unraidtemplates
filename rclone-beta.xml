@@ -8,7 +8,7 @@
 <Date>2016-11-05</Date> 
 <Name>rclone-beta</Name>
 <Description>
-The plugin installs Rclone. Rclone is a command line program to sync files and directories to and from
+The plugin installs Rclone Beta Branch. Rclone is a command line program to sync files and directories to and from
 * Google Drive
 * Amazon S3
 * Openstack Swift / Rackspace cloud files / Memset Memstore
