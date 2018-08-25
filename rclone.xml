@@ -3,7 +3,7 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/Waseh/rclone-unraid/master/plugin/rclone.plg</PluginURL>
 <PluginAuthor>Waseh</PluginAuthor>
-<Beta>True</Beta>
+<Beta>False</Beta>
 <Category>Backup: Cloud: Tools:</Category>
 <Date>2018-08-25</Date> 
 <Name>rclone</Name>
