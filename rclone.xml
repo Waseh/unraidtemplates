@@ -5,7 +5,7 @@
 <PluginAuthor>Waseh</PluginAuthor>
 <Beta>False</Beta>
 <Category>Backup: Cloud: Tools:</Category>
-<Date>2018-08-25</Date> 
+<Date>2019-10-13</Date> 
 <Name>rclone</Name>
 <Description>
 The plugin installs Rclone Stable Branch. Rclone is a command line program to sync files and directories to and from services such as:
@@ -30,5 +30,5 @@ The plugin installs Rclone Stable Branch. Rclone is a command line program to sy
 Go to http://rclone.org/ for more information.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=53365.0</Support>
-<Icon>http://i.imgur.com/hHXQqTb.png</Icon>
+<Icon>https://raw.githubusercontent.com/rclone/rclone/master/graphics/logo/logo_symbol/logo_symbol_color_512px.png</Icon>
 </Containers>
