@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://raw.githubusercontent.com/Waseh/unraidtemplates/master/WasehLogo.png</Icon>
+  <Profile>
+    Maintaining a plugin which installs rclone on your unraid machine.
+  </Profile>
+</Maintainer>
