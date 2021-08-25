@@ -4,4 +4,6 @@
   <Profile>
     Maintaining a plugin which installs rclone on your unraid machine.
   </Profile>
+  <DonateLink>https://paypal.me/WasehDev</DonateLink>
+  <DonateText>If you like my work please consider Donating.</DonateText>
 </Maintainer>
